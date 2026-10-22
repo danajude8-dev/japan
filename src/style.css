@@ -6,3 +6,5 @@
 @media print{header,.compare-tray,.mobile-menu,.hotel-actions,.destination-filter,footer,.hero-aside{display:none}.hero{height:400px;min-height:0}.section-wrap{width:95%}.hotel-grid{grid-template-columns:repeat(3,1fr)}.hotel-card{break-inside:avoid}.budget-summary{position:static}.budget-grid{grid-template-columns:1fr 1fr}.city-section{break-inside:avoid}}
 
 header .mobile-menu{display:none}@media(max-width:760px){header .mobile-menu{display:grid}}
+
+.booking{background:#003b95;font-size:12px;min-height:48px;font-weight:600}.booking:hover{background:#002b70}.booking-help{font-size:11px;line-height:1.8;margin:0 0 24px;color:#52614e;max-width:850px}
