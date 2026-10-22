@@ -1,0 +1,330 @@
+{
+  "checked_at": "2026-10-22T18:50:23.319828+00:00",
+  "note": "Un HTTP 200 ne prouve pas la disponibilité ; un refus anti-robots ne prouve pas un lien cassé.",
+  "links": [
+    {
+      "label": "Hotel Niwa Tokyo",
+      "url": "https://www.hotelniwa.jp/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.hotelniwa.jp/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "NOHGA HOTEL UENO TOKYO",
+      "url": "https://www.nohgahotel.com/ueno/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.nohgahotel.com/ueno/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "HAMACHO HOTEL TOKYO",
+      "url": "https://hamachohotel.jp/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://hamachohotel.jp/en/",
+      "note": "Protection anti-robots possible"
+    },
+    {
+      "label": "Matsumoto Hotel Kagetsu",
+      "url": "https://matsumotohotel-kagetsu.com/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://matsumotohotel-kagetsu.com/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Matsumoto Marunouchi Hotel",
+      "url": "https://www.matsumoto-marunouchi.com/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.matsumoto-marunouchi.com/",
+      "note": "Protection anti-robots possible"
+    },
+    {
+      "label": "Utsukushigahara Onsen Shoho",
+      "url": "https://www.hotel-shoho.jp/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.hotel-shoho.jp/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "HOTEL WOOD TAKAYAMA",
+      "url": "https://www.hotel-wood.com/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.hotel-wood.com/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Ryokan Tanabe",
+      "url": "https://tanabe-ryokan.jp/english",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://tanabe-ryokan.jp/english",
+      "note": "Protection anti-robots possible"
+    },
+    {
+      "label": "Oyado Koto no Yume",
+      "url": "https://www.kotoyume.com/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.kotoyume.com/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "NOHGA HOTEL KIYOMIZU KYOTO",
+      "url": "https://www.nohgahotel.com/kiyomizu/en/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.nohgahotel.com/kiyomizu/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Kyoto Granbell Hotel",
+      "url": "https://granbellhotel.jp/en/kyoto/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://en.granbellhotel.jp/kyoto/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "hotel kanra kyoto",
+      "url": "https://www.uds-hotels.com/en/kanra/kyoto/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://www.uds-hotels.com/en/kanra/kyoto/",
+      "note": "Protection anti-robots possible"
+    },
+    {
+      "label": "Zentis Osaka",
+      "url": "https://zentishotels.com/en/osaka/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://zentishotels.com/en/osaka/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Hotel Noum OSAKA",
+      "url": "https://www.no-um.jp/en/stay",
+      "type": "officiel",
+      "status": 503,
+      "note": "HTTP 503 lors du contrôle direct ; page officielle lisible via recherche web. À vérifier dans un navigateur utilisateur."
+    },
+    {
+      "label": "HOTEL THE FLAG Shinsaibashi",
+      "url": "https://en.hoteltheflag.jp/",
+      "type": "officiel",
+      "status": 200,
+      "final_url": "https://en.hoteltheflag.jp/",
+      "note": "Protection anti-robots possible"
+    },
+    {
+      "label": "Hotel Niwa Tokyo",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Hotel+Niwa+Tokyo%2C+Tokyo%2C+Japon&checkin=2027-03-29&checkout=2027-04-02&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Hotel+Niwa+Tokyo%2C+Tokyo%2C+Japon&checkin=2027-04-01&checkout=2027-04-04&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "NOHGA HOTEL UENO TOKYO",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=NOHGA+HOTEL+UENO+TOKYO%2C+Tokyo%2C+Japon&checkin=2027-03-29&checkout=2027-04-02&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=NOHGA+HOTEL+UENO+TOKYO%2C+Tokyo%2C+Japon&checkin=2027-04-01&checkout=2027-04-04&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "HAMACHO HOTEL TOKYO",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=HAMACHO+HOTEL+TOKYO%2C+Tokyo%2C+Japon&checkin=2027-03-29&checkout=2027-04-02&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=HAMACHO+HOTEL+TOKYO%2C+Tokyo%2C+Japon&checkin=2027-04-01&checkout=2027-04-04&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "Matsumoto Hotel Kagetsu",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Matsumoto+Hotel+Kagetsu%2C+Matsumoto%2C+Japon&checkin=2027-04-02&checkout=2027-04-04&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Matsumoto+Hotel+Kagetsu%2C+Matsumoto%2C+Japon&checkin=2027-04-04&checkout=2027-04-06&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "Matsumoto Marunouchi Hotel",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Matsumoto+Marunouchi+Hotel%2C+Matsumoto%2C+Japon&checkin=2027-04-02&checkout=2027-04-04&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Matsumoto+Marunouchi+Hotel%2C+Matsumoto%2C+Japon&checkin=2027-04-04&checkout=2027-04-06&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "Utsukushigahara Onsen Shoho",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Utsukushigahara+Onsen+Shoho%2C+Matsumoto%2C+Japon&checkin=2027-04-02&checkout=2027-04-04&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Utsukushigahara+Onsen+Shoho%2C+Matsumoto%2C+Japon&checkin=2027-04-04&checkout=2027-04-06&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "HOTEL WOOD TAKAYAMA",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=HOTEL+WOOD+TAKAYAMA%2C+Takayama%2C+Japon&checkin=2027-04-04&checkout=2027-04-06&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=HOTEL+WOOD+TAKAYAMA%2C+Takayama%2C+Japon&checkin=2027-04-06&checkout=2027-04-08&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "Ryokan Tanabe",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Ryokan+Tanabe%2C+Takayama%2C+Japon&checkin=2027-04-04&checkout=2027-04-06&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Ryokan+Tanabe%2C+Takayama%2C+Japon&checkin=2027-04-06&checkout=2027-04-08&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "Oyado Koto no Yume",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Oyado+Koto+no+Yume%2C+Takayama%2C+Japon&checkin=2027-04-04&checkout=2027-04-06&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Oyado+Koto+no+Yume%2C+Takayama%2C+Japon&checkin=2027-04-06&checkout=2027-04-08&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "NOHGA HOTEL KIYOMIZU KYOTO",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=NOHGA+HOTEL+KIYOMIZU+KYOTO%2C+Kyoto%2C+Japon&checkin=2027-04-06&checkout=2027-04-11&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=NOHGA+HOTEL+KIYOMIZU+KYOTO%2C+Kyoto%2C+Japon&checkin=2027-04-08&checkout=2027-04-12&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "Kyoto Granbell Hotel",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Kyoto+Granbell+Hotel%2C+Kyoto%2C+Japon&checkin=2027-04-06&checkout=2027-04-11&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Kyoto+Granbell+Hotel%2C+Kyoto%2C+Japon&checkin=2027-04-08&checkout=2027-04-12&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "hotel kanra kyoto",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=hotel+kanra+kyoto%2C+Kyoto%2C+Japon&checkin=2027-04-06&checkout=2027-04-11&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=hotel+kanra+kyoto%2C+Kyoto%2C+Japon&checkin=2027-04-08&checkout=2027-04-12&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "Zentis Osaka",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Zentis+Osaka%2C+Osaka%2C+Japon&checkin=2027-04-11&checkout=2027-04-13&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Zentis+Osaka%2C+Osaka%2C+Japon&checkin=2027-04-12&checkout=2027-04-14&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 202
+    },
+    {
+      "label": "Hotel Noum OSAKA",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=Hotel+Noum+OSAKA%2C+Osaka%2C+Japon&checkin=2027-04-11&checkout=2027-04-13&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=Hotel+Noum+OSAKA%2C+Osaka%2C+Japon&checkin=2027-04-12&checkout=2027-04-14&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "HOTEL THE FLAG Shinsaibashi",
+      "url": "https://www.booking.com/searchresults.fr.html?ss=HOTEL+THE+FLAG+Shinsaibashi%2C+Osaka%2C+Japon&checkin=2027-04-11&checkout=2027-04-13&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "type": "Booking",
+      "status": null,
+      "final_url": "https://www.booking.com/searchresults.fr.html?ss=HOTEL+THE+FLAG+Shinsaibashi%2C+Osaka%2C+Japon&checkin=2027-04-12&checkout=2027-04-14&group_adults=2&no_rooms=1&group_children=0&selected_currency=CHF",
+      "note": "Dates mises à jour au 29 mars–13 avril 2027 et paramètres testés ; contrôle HTTP précédent conservé séparément, pas de nouvelle vérification de disponibilité.",
+      "previous_http_status": 200
+    },
+    {
+      "label": "Trains à l’est du Japon · Azusa",
+      "url": "https://www.jreast.co.jp/multi/en/",
+      "type": "source",
+      "status": 403,
+      "note": "Protection ou refus du serveur ; validation éditoriale distincte"
+    },
+    {
+      "label": "Matsumoto → Takayama · Alpico",
+      "url": "https://www.alpico.co.jp/traffic/express/matsumoto_takayama/",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://www.alpico.co.jp/traffic/express/matsumoto_takayama/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Trains Hida & Shinkansen · JR Central",
+      "url": "https://global.jr-central.co.jp/en/",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://global.jr-central.co.jp/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Kyoto, Osaka & Kansai · JR West",
+      "url": "https://www.westjr.co.jp/global/en/",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://www.westjr.co.jp/global/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Saisonnalité de Kamikōchi · site officiel",
+      "url": "https://www.kamikochi.org/news/2026-opening",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://www.kamikochi.org/news/2026-opening",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Matsumoto · office de tourisme",
+      "url": "https://visitmatsumoto.com/en/",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://visitmatsumoto.com/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Kyoto · office de tourisme",
+      "url": "https://kyoto.travel/en/",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://kyoto.travel/en/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    },
+    {
+      "label": "Takayama · office de tourisme",
+      "url": "https://www.hida.jp/english/",
+      "type": "source",
+      "status": 200,
+      "note": "Lien initial 404 remplacé ; nouveau lien vérifié HTTP 200."
+    },
+    {
+      "label": "THE BOLY · annonce de fermeture (exclu)",
+      "url": "https://theboly.com/cms/blog/closureannouncement01/",
+      "type": "source",
+      "status": 200,
+      "final_url": "https://theboly.com/cms/blog/closureannouncement01/",
+      "note": "Réponse HTTP reçue ; tarifs et disponibilités non vérifiés"
+    }
+  ]
+}

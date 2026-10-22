@@ -1,0 +1,200 @@
+{
+  "hero": {
+    "src": "/images/hero.webp",
+    "title": "琵琶湖疎水とサクラ。山科区、琵琶湖疎水にて。",
+    "author": "Shigeru-a24",
+    "source": "https://commons.wikimedia.org/wiki/File:Yamasina_Lake_Biwa_Canal_and_Cherry_Blossom_Viewing_(3).JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "date": "2014-04-01 15:40:41",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "tokyo-0": {
+    "src": "/images/tokyo-0.webp",
+    "title": "The Chidorigafuchi Cherry Blossom Illuminations are an annual event held along the Chidorigafuchi Moat in Tokyo, Japan. During early April, thousands of cherry trees lining the moat are adorned with soft, atmospheric lighting, creating a scenic nighttime promenade. The illumination highlights the delicate pink blossoms, enhancing the seasonal beauty and providing visitors with a serene and picturesque experience. The event attracts both locals and tourists, contributing to the cultural celebration of hanami and the appreciation of sakura in urban Tokyo.",
+    "author": "Manish Prabhune",
+    "source": "https://commons.wikimedia.org/wiki/File:Chidorigafuchi_Cherry_Blossoms.png",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "date": "30 January 2016, 14:30:20 (upload date)",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "tokyo-1": {
+    "src": "/images/tokyo-1.webp",
+    "title": "Cherry blossoms in Chidorigahuchi Tokyo.",
+    "author": "nattou",
+    "source": "https://commons.wikimedia.org/wiki/File:Cherry_blossoms_tokyo_3.JPG",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "date": "2010-04-05",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "tokyo-2": {
+    "src": "/images/tokyo-2.webp",
+    "title": "Cherry blossoms in Chidorigahuchi Tokyo.",
+    "author": "nattou",
+    "source": "https://commons.wikimedia.org/wiki/File:Cherry_blossoms_tokyo_2.JPG",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "date": "2010-04-05",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "matsumoto-0": {
+    "src": "/images/matsumoto-0.webp",
+    "title": "Matsumoto castle",
+    "author": "KimonBerlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Castle_(7423750056).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "date": "2012-04-23 12:26:44",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "matsumoto-1": {
+    "src": "/images/matsumoto-1.webp",
+    "title": "Matsumoto castle",
+    "author": "KimonBerlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Castle_(7423768570).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "date": "2012-04-23 13:19:42",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "matsumoto-2": {
+    "src": "/images/matsumoto-2.webp",
+    "title": "Matsumoto castle",
+    "author": "KimonBerlin",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Castle_(7423746732).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "date": "2012-04-23 12:24:45",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "takayama-0": {
+    "src": "/images/takayama-0.webp",
+    "title": "Sanmachi in Takayama, Gifu prefecture, Japan",
+    "author": "663highland",
+    "source": "https://commons.wikimedia.org/wiki/File:071124_Sanmachi_Takayama_Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2007-11-24",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "takayama-1": {
+    "src": "/images/takayama-1.webp",
+    "title": "Sanmachi in Takayama, Gifu prefecture, Japan",
+    "author": "663highland",
+    "source": "https://commons.wikimedia.org/wiki/File:090919_Sanmachi_Takayama_Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2009-09-19",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "takayama-2": {
+    "src": "/images/takayama-2.webp",
+    "title": "Sanmachi in Takayama, Gifu prefecture, Japan",
+    "author": "663highland",
+    "source": "https://commons.wikimedia.org/wiki/File:260923_Sanmachi_Takayama_Japan03s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2026-09-23",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "kyoto-0": {
+    "src": "/images/kyoto-0.webp",
+    "title": "Yasaka-dori, early morning with street lanterns and the Tower of Yasaka (Hokan-ji Temple), 388 Yasaka Kamimachi, Higashiyama-ku, Kyoto, Japan. Important cultural heritage of Kyoto, Hokan-ji is a 46 m (151 ft) high, 5 storey pagoda with a tiled roof that was founded in the 6th century.",
+    "author": "Basile Morin",
+    "source": "https://commons.wikimedia.org/wiki/File:Yasaka-dori_early_morning_with_street_lanterns_and_the_Tower_of_Yasaka_(Hokan-ji_Temple),_Kyoto,_Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "12 June 2019 05:24:20",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "kyoto-1": {
+    "src": "/images/kyoto-1.webp",
+    "title": "File:GIO - Yasaka Pagoda seen from Higashiyama near Gion, Kyoto, Japan, 2015.jpg",
+    "author": "Voir la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:GIO_-_Yasaka_Pagoda_seen_from_Higashiyama_near_Gion,_Kyoto,_Japan,_2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "kyoto-2": {
+    "src": "/images/kyoto-2.webp",
+    "title": "At Yasakakamimachi, Higashiyama-ku, Kyoto, Kyoto prefecture, Japan. View of the five-story pagoda at Hōgan-ji Temple.",
+    "author": "663highland",
+    "source": "https://commons.wikimedia.org/wiki/File:150124_At_Yasakakamimachi_Kyoto_Japan01n.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "date": "24 January 2015",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "osaka-0": {
+    "src": "/images/osaka-0.webp",
+    "title": "Wall of signboards at Ebisu Bridge on the Dōtonbori Canal, Osaka, Japan.",
+    "author": "Martin Falbisoner",
+    "source": "https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2016-11-16 19:34:23",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "osaka-1": {
+    "src": "/images/osaka-1.webp",
+    "title": "The neon sign for the Dotonbori area, as seen on a road south of Dotonbori River",
+    "author": "DXR",
+    "source": "https://commons.wikimedia.org/wiki/File:Dotonbori_Neon_Sign,_Osaka_20190415_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2019-04-15",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "osaka-2": {
+    "src": "/images/osaka-2.webp",
+    "title": "Dotonbori at night",
+    "author": "Sakai Yayoi",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_yoru_02.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date": "19 August 2026",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "destination"
+  },
+  "niwa": {
+    "src": "/images/niwa.webp",
+    "title": "Photograph of  the entrance lobby, on the 1st floor of Hotel Niwa Tokyo, Chiyoda, Tokyo, Japan.",
+    "author": "J o",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Niwa_Tokyo_1F_Lobby_20131028-002.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2013-10-28",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "hotel"
+  },
+  "kanra": {
+    "src": "/images/kanra.webp",
+    "title": "Photograph of the southeast side view of Hotel Kanra Kyoto in Shimogyo-ku, Kyoto, Kyoto Prefecture, Japan.",
+    "author": "J o",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Kanra_Kyoto_20210620-001.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date": "2021-06-20",
+    "changes": "Redimensionnement, conversion WebP et recadrage à l’affichage.",
+    "type": "hotel"
+  }
+}
